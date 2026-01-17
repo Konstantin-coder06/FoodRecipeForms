@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\bin\Debug\net6.0\FoodRecipe.Data.deps.json
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\bin\Debug\net6.0\FoodRecipe.Data.runtimeconfig.json
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\bin\Debug\net6.0\FoodRecipe.Data.dll
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\bin\Debug\net6.0\FoodRecipe.Data.pdb
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.dll
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\refint\FoodRecipe.Data.dll
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.pdb
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\FoodRecipe.Data.genruntimeconfig.cache
+C:\Users\User\Documents\Software engineering\FoodRecipeProject\FoodRecipe.Data\obj\Debug\net6.0\ref\FoodRecipe.Data.dll
